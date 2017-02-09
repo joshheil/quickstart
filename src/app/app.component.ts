@@ -70,7 +70,7 @@ import { HeroDetailComponent } from './hero-detail.component';
 `]
 })
 export class AppComponent  { 
-  heroes = HEROES;
+  // heroes = HEROES;
   title = 'Tour of Heroes';
   selectedHero: Hero;
 
